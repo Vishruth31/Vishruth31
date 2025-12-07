@@ -1,5 +1,8 @@
 # 💫 About Me:
-	•	Currently expanding my cyber security skills while building secure applications and websites that balance clean design with practical functionality.<br>	•	Open to collaborating on security-focused development projects or initiatives involving problem-solving, research, and system design.<br>	•	Seeking opportunities to improve my cyber security expertise and explore internships to gain practical, real-world experience in the field.<br>	•	Actively learning ethical hacking fundamentals, vulnerability analysis, secure coding practices, and development workflows for mobile and web platforms.
+	•	Currently expanding my cyber security skills while building secure applications and websites that balance clean design with practical functionality.<br>
+	•	Open to collaborating on security-focused development projects or initiatives involving problem-solving, research, and system design.<br>	
+	•	Seeking opportunities to improve my cyber security expertise and explore internships to gain practical, real-world experience in the field.<br>	
+	•	Actively learning ethical hacking fundamentals, vulnerability analysis, secure coding practices, and development workflows for mobile and web platforms.
 
 
 ## 🌐 Socials:
